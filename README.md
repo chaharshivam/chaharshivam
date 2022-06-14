@@ -1,6 +1,5 @@
 
 # Hi, I'm Shivam 👋
-<hr/>
 
 ![Alt text](./images/Shivam-Chahar.png)
     <p align="center">

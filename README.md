@@ -6,11 +6,6 @@
 A software engineering student with a passion for creating beautiful programs. Loves to figure out the answer to “WHY” and “HOW”, expanding my knowledge base, and building technology to elevate people. I have a strong grasp of Python and am interested in working in the research field. Over the last year, I've written three research articles, two of which have been published in peer-reviewed high-impact journals, including "IEEE Transactions on Artificial Intelligence" and the "Archives of Computational Methods in Engineering" (SCI-indexed Q1 journal) and a paper was accepted in International conference.
     </p>
 
-<i></i>
-    <p align="center">
-A software engineering student with a passion for creating beautiful programs. Loves to figure out the answer to “WHY” and “HOW”, expanding my knowledge base, and building technology to elevate people. I have a strong grasp of Python and am interested in working in the research field. Over the last year, I've written three research articles, two of which have been published in peer-reviewed high-impact journals, including "IEEE Transactions on Artificial Intelligence" and the "Archives of Computational Methods in Engineering" (SCI-indexed Q1 journal) and a paper was accepted in International conference.
-    </p>
-
 <hr/>
 
 |    👾 Find more about me around the web    |                                                                                                                                                                                                                           |

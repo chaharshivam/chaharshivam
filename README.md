@@ -3,7 +3,7 @@
 
 ![Alt text](./images/Shivam-Chahar.png)
     <p align="center">
-A software engineering student with a passion for creating beautiful programs. Loves to figure out the answer to “WHY” and “HOW”, expanding my knowledge base, and building technology to elevate people. I have a strong grasp of Python and am interested in working in the research field. Over the last year, I've written three research articles, two of which have been published in peer-reviewed high-impact journals, including "IEEE Transactions on Artificial Intelligence" and the "Archives of Computational Methods in Engineering" (SCI-indexed Q1 journal) and a paper was accepted in International conference.
+A software engineering student with a passion for creating beautiful programs. Loves to figure out the answer to “WHY” and “HOW”, expanding my knowledge base, and building technology to elevate people. I have a solid understanding of C++, Data Structures and Algorithms, as well as Python, and I am interested in working in the field of machine learning. Over the last year, I've written three research articles, two of which have been published in peer-reviewed high-impact journals, including "IEEE Transactions on Artificial Intelligence" and the "Archives of Computational Methods in Engineering" (SCI-indexed Q1 journal) and a paper was accepted in International conference.
     </p>
 
 <hr/>

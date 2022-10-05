@@ -90,7 +90,7 @@ A software engineering student with a passion for creating beautiful programs. L
 
 <i></i>
     <p align="center">  
-[![Years Badge](https://badges.pufler.dev/years/chaharshivam)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/chaharshivam)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/chaharshivam/chaharshivam)](https://badges.pufler.dev)
+![Years Badge](https://badges.pufler.dev/years/chaharshivam)
+![Repos Badge](https://badges.pufler.dev/repos/chaharshivam)
+![Visits Badge](https://badges.pufler.dev/visits/chaharshivam/chaharshivam)
     </p>
